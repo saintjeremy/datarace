@@ -1,1 +1,3 @@
-# race condition demo - run with go run -race datarace.go
+# race condition demo - 
+
+Run with `go run -race datarace.go`
